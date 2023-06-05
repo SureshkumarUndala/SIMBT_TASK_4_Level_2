@@ -1,0 +1,19 @@
+.Cart{
+    padding: 20px;
+    width: 100%;
+    height: 100vh;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    box-sizing: border-box;
+
+}
+
+.cart_item{
+    width: 90%;
+    height: 150px;
+    background-color: red;
+    padding: 10px;
+
+}

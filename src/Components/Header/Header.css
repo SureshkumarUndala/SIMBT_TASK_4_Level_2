@@ -1,0 +1,37 @@
+.header{
+    background-color: #003580;
+    color: white;
+    display: flex;
+    width: 100%;
+    padding: 20px;
+    height: 10vh;
+    box-shadow: 1px 2px 2px black;
+
+
+}
+h5{
+    margin-left: 15px;
+}
+input{
+    width: 400px;
+    padding: 4px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 3px;
+    outline: none;
+}
+button{
+    padding: 4px 15px;
+    border: none;
+    border-radius: 3px;
+    background-color: inherit;
+    color: white
+
+    
+}
+button:hover{
+    background-color: rgb(42, 126, 127);
+    color: black
+
+
+}

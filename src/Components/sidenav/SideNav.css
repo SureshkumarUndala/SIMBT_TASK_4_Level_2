@@ -1,0 +1,27 @@
+.Nav{
+    width: 20%;
+    height:75vh;
+    background-color: #002480e5;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 0.5px 1.5px 5px  black;
+    overflow: auto;
+    letter-spacing: 1px;
+
+   
+ 
+    box-sizing: border-box;
+}
+.items{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    padding: 30px 0px 0px 60px;
+    list-style-type: none;
+
+
+}
+li{
+    cursor: pointer;
+}
